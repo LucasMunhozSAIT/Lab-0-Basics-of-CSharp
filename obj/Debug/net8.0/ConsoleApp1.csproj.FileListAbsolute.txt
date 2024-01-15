@@ -1,0 +1,14 @@
+C:\Users\Lucas\OneDrive\Área de Trabalho\College - Sof Dev\Second Term\CPRG211 - OOP2\Lab 0\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\OneDrive\Área de Trabalho\College - Sof Dev\Second Term\CPRG211 - OOP2\Lab 0\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\College - Sof Dev\Second Term\CPRG211 - OOP2\Lab 0\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Lucas\OneDrive\Área de Trabalho\College - Sof Dev\Second Term\CPRG211 - OOP2\Lab 0\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\College - Sof Dev\Second Term\CPRG211 - OOP2\Lab 0\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\Lucas\OneDrive\Área de Trabalho\College - Sof Dev\Second Term\CPRG211 - OOP2\Lab 0\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\Lucas\OneDrive\Área de Trabalho\College - Sof Dev\Second Term\CPRG211 - OOP2\Lab 0\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Lucas\OneDrive\Área de Trabalho\College - Sof Dev\Second Term\CPRG211 - OOP2\Lab 0\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\College - Sof Dev\Second Term\CPRG211 - OOP2\Lab 0\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Lucas\OneDrive\Área de Trabalho\College - Sof Dev\Second Term\CPRG211 - OOP2\Lab 0\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\College - Sof Dev\Second Term\CPRG211 - OOP2\Lab 0\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\College - Sof Dev\Second Term\CPRG211 - OOP2\Lab 0\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Lucas\OneDrive\Área de Trabalho\College - Sof Dev\Second Term\CPRG211 - OOP2\Lab 0\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\College - Sof Dev\Second Term\CPRG211 - OOP2\Lab 0\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
